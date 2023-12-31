@@ -15,17 +15,17 @@ Hey there! I'm Shubham Rajput, a dedicated code artisan on a mission to uncover 
 ### Skills
 
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href=" ">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="90" height="90" alt="MySQL" />
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="90" height="90" alt="Python" />
+<a href=" ">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="90" height="90" alt="Python" />
   </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="90" height="90" alt="R" />
+<a href=" ">
+  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="90" height="90" alt="R" />
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="90" height="90" alt="AWS" />
+<a href=" ">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="90" height="90" alt="AWS" />
   </a>
 </p>
 

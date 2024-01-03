@@ -31,7 +31,7 @@ Hey there! I'm Shubham Rajput, a dedicated code artisan on a mission to uncover 
 
 ## Learning
 
-🚀 Embarking on a journey to master the intricacies of AWS.
+🚀 Embarking on a journey to master the intricacies of Machine Learning.
 
 ## Connect with Me
 

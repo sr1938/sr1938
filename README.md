@@ -4,7 +4,7 @@
 
 🎓 Mechanical Engineering graduate | 🚀 Tech Explorer | 🌐 Python & R Enthusiast
 
-🌍 Based in the dynamic city of Mumbai
+🌍 Based in city of Mumbai
 
 📧 Contact me at: shubhamr1938@gmail.com
 

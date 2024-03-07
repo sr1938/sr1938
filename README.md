@@ -25,13 +25,13 @@ Hey there! I'm Shubham Rajput, a dedicated code artisan on a mission to uncover 
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="75" height="75" alt="R" />
   </a>
 <a href=" ">
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/terraformio/terraformio-ar21.svg" width="75" height="75" alt="Terraform" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" width="75" height="75" alt="Terraform" />
   </a>
 <a href=" ">
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linux/linux-ar21.svg" width="75" height="75" alt="Linux" />
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" width="75" height="75" alt="Linux" />
   </a>
 <a href=" ">
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon_aws/amazon_aws-ar21.svg" width="75" height="75" alt="AWS" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="75" height="75" alt="AWS" />
   </a>
 </p>
 

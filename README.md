@@ -16,16 +16,22 @@ Hey there! I'm Shubham Rajput, a dedicated code artisan on a mission to uncover 
 
 <p align="left">
   <a href=" ">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="90" height="90" alt="MySQL" />
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="75" height="75" alt="MySQL" />
   </a>
 <a href=" ">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="90" height="90" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="75" height="75" alt="Python" />
   </a>
 <a href=" ">
-  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="90" height="90" alt="R" />
+  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="75" height="75" alt="R" />
   </a>
 <a href=" ">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="90" height="90" alt="AWS" />
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/terraformio/terraformio-ar21.svg" width="75" height="75" alt="Terraform" />
+  </a>
+<a href=" ">
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linux/linux-ar21.svg" width="75" height="75" alt="Linux" />
+  </a>
+<a href=" ">
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon_aws/amazon_aws-ar21.svg" width="75" height="75" alt="AWS" />
   </a>
 </p>
 

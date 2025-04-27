@@ -18,6 +18,9 @@ Hey there! I'm Shubham Rajput, a working Site Reliability Engineer and a dedicat
   <a href=" ">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="75" height="75" alt="MySQL" />
   </a>
+  <a href=" ">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" width="100" height="75" alt="PostgreSQL" />
+  </a>
 <a href=" ">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="75" height="75" alt="Python" />
   </a>

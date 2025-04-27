@@ -10,7 +10,7 @@
 
 ## About Me
 
-Hey there! I'm Shubham Rajput, a dedicated code artisan on a mission to uncover the extraordinary possibilities within the world of technology. Armed with a degree in Mechanical Engineering, I bring a unique blend of creativity and logic to my coding endeavors. Each line of code is an opportunity to innovate and shape the future. Currently exploring the vast landscape of machine learning and pushing boundaries with AWS.
+Hey there! I'm Shubham Rajput, a working Site Reliability Engineer and a dedicated code artisan on a mission to uncover the extraordinary possibilities within the world of technology. Armed with a degree in Mechanical Engineering, I bring a unique blend of creativity and logic to my coding endeavors. Each line of code is an opportunity to innovate and shape the future. Currently exploring the vast landscape of machine learning and pushing boundaries with AWS.
 
 ### Skills
 
@@ -33,6 +33,9 @@ Hey there! I'm Shubham Rajput, a dedicated code artisan on a mission to uncover 
 <a href=" ">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="150" height="75" alt="AWS" />
   </a>
+<a href=" ">
+  <img src="https://raw.githubusercontent.com/cncf/landscape/refs/heads/master/hosted_logos/harness-member.svg" width="150" height="75" alt="Harness" />
+</a>
 </p>
 
 ## Learning
